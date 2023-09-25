@@ -1,0 +1,8 @@
+streamlit
+datasets
+--upgrade accelerate
+sentencepiece
+
+# for huggingface app
+torch
+transformers
