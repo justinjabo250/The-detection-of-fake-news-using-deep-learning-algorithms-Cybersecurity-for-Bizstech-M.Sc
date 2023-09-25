@@ -1,0 +1,2 @@
+# The-detection-of-fake-news-using-deep-learning-algorithms-Cybersecurity-for-Bizstech-M.Sc
+A natural language processing technology called fake news detection is used to find and categorize erroneous or misleading material in news articles and social media posts. In this project, I looked into how to use Hugging Face to polish a pre-trained fake news detection model and distribute it on the Hugging Face model hub.
