@@ -1,8 +1,10 @@
 # The detection of fake news using deep learning algorithms Cybersecurity for Bizstech M.Sc [![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/Justin-J/The-detection-of-fake-news-using-deep-learning-algorithms-Cybersecurity-for-Bizstech-M.Sc)
 
-![Fake-news-v2-5](https://github.com/Gitjohhny/FakeNews-Detection-with-deep-learning-models/assets/110716071/3ad4934f-d3ec-4a35-b492-ff3d97d9f253)
+![FakeNews](https://github.com/justinjabo250/The-detection-of-fake-news-using-deep-learning-algorithms-Cybersecurity-for-Bizstech-M.Sc/assets/115732734/630d6052-656c-49e6-9573-380dacb38d13)
 
 # 1.0 Introduction
+
+![Fake_News](https://github.com/justinjabo250/The-detection-of-fake-news-using-deep-learning-algorithms-Cybersecurity-for-Bizstech-M.Sc/assets/115732734/848dd682-20cc-4ec4-9fdb-a4befadbf04e)
 
 ## What is Fake News Detection?
 
