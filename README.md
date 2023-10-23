@@ -1,4 +1,8 @@
-# The detection of fake news using deep learning algorithms Cybersecurity for Bizstech M.Sc [![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/Justin-J/The-detection-of-fake-news-using-deep-learning-algorithms-Cybersecurity-for-Bizstech-M.Sc)
+# The detection of fake news using deep learning algorithms Cybersecurity for Bizstech M.Sc 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/Justin-J/The-detection-of-fake-news-using-deep-learning-algorithms-Cybersecurity-for-Bizstech-M.Sc)
+[![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://justinjabo250.github.io/Developing-a-web-application-for-an-online-portfolio./)
+[![View GitHub Profile](https://img.shields.io/badge/GitHub-Profile-darkgreen)](https://github.com/justinjabo250)
+
 
 ![FakeNews](https://github.com/justinjabo250/The-detection-of-fake-news-using-deep-learning-algorithms-Cybersecurity-for-Bizstech-M.Sc/assets/115732734/630d6052-656c-49e6-9573-380dacb38d13)
 
